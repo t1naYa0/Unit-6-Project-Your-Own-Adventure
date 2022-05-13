@@ -1,0 +1,144 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.Part-Two-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.Part-Three-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+
+}
+
+.Part-Four-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-Five-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.Part-Six-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.Part-Seven-Text {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+
+.town {
+    height: 300px;
+}
+
+.adventuresGuild {
+    height: 300px;
+}
+
+.jobBoard {
+    height: 300px;
+}
+
+.slime {
+    height: 300px;
+}
+
+.boss {
+    height: 300px;
+}
+
+.deathScreen {
+    height: 300px;
+}
+
+.fireScreen {
+    height: 300px;
+}
+
+.slimeFight {
+    display: flex;
+    justify-content: center;
+}
+
+.bossFight {
+    display: flex;
+    justify-content: center;
+}
+
+.endScreen {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
